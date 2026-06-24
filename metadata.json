@@ -1,0 +1,6 @@
+{
+  "name": "Chrome Task Scraper Planner",
+  "description": "Interactive action plan, architecture design, and boilerplate code generator for a Chrome Extension that organizes daily tasks using Web Scraping (Scrapling) and local persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
